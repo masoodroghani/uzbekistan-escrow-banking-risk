@@ -12,7 +12,6 @@ Observations are classified as:
 2. **Estimated/Derived** — reconstructed from verified observations using documented procedures.
 3. **Manuscript-consistent reconstructed** — values created from parameters reported in the manuscript where the original bank-level series was not recovered.
 
-In particular, the current bank-level CAR series is manuscript-consistent reconstructed data and **must not be represented as original Central Bank of Uzbekistan bank-level CAR observations**.
 
 ## Study design
 
