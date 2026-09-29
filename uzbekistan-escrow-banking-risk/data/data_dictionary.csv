@@ -1,0 +1,17 @@
+sheet,column,description,provenance_note
+Bank_Panel,Date,Monthly observation date,Design field
+Bank_Panel,Bank,Bank identifier,Study sample
+Bank_Panel,CAR_pct,Capital adequacy ratio percent,Currently manuscript-consistent reconstructed
+Bank_Panel,NPL_pct,Non-performing loan ratio percent,Mix of verified and Estimated/Derived
+Bank_Panel,Total_Assets_UZS_bn,Total assets in UZS billion,Mix of verified and Estimated/Derived
+Bank_Panel,ln_assets,Natural logarithm of total assets,Derived
+Bank_Panel,time,Sequential month counter,Derived
+Bank_Panel,post,Indicator equal to 1 from April 2026,Derived
+Bank_Panel,post_trend,Post-intervention trend counter,Derived
+Bank_Panel,March_2026_Pulse,Indicator for March 2026,Derived
+Bank_Panel,Verification_Status,Provenance status,Documentation
+Bank_Panel,Notes,Observation/reconstruction notes,Documentation
+Market_Monthly,Transaction_Volume,Residential transaction volume,Not yet fully reconstructed
+Market_Monthly,Primary_HPI,Primary housing price index,Not yet fully reconstructed
+Market_Monthly,Refinancing_Rate_pct,CBU policy/refinancing rate,Not yet fully reconstructed
+Market_Monthly,CPI_Inflation_pct,CPI inflation measure,Not yet fully reconstructed
