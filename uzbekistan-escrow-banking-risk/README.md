@@ -62,4 +62,4 @@ See `CITATION.cff`. Update author identifiers and publication metadata when the 
 
 ## License
 
-Code is released under the MIT License. The reconstructed dataset is provided for research replication with source/provenance notes; underlying official-source data remain subject to their original providers' terms.
+Code is released under the MIT License.
