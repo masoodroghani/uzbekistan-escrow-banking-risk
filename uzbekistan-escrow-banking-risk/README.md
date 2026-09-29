@@ -1,10 +1,10 @@
-# Uzbekistan Escrow Reform and Banking Risk — Replication Package
+# Uzbekistan Escrow Reform and Banking Risk — Package
 
 This repository supports the study **“Assessing Short-Run Banking Risk and Housing-Market Adjustment Following Mandatory Escrow Reform: Evidence from Uzbekistan.”**
 
-## Important data reconstruction notice
 
-This repository contains a **reconstructed replication dataset**. It is not a complete copy of an original raw dataset.
+
+This repository contains a **dataset**. 
 
 Observations are classified as:
 
